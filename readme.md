@@ -1,4 +1,4 @@
-# Foobar
+# Joshua
 
 Joshua is a light-weight python wsgi
 
